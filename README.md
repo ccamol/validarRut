@@ -1,0 +1,2 @@
+# validarRut
+Validación rut javascript
